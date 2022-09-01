@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- -🔭 I'm currently working on [a project to count surfers on the beaches, and forecast the crowd density](https://github.com/AlexandreNap/surf-crowd) 
- -🌞 Last toy project I liked to work on was on [a small implementation of ddpm diffusion model for 2d points](https://github.com/AlexandreNap/Denoising-Diffusion-Probabilistic-Model-toy-project) 
+ *🔭 I'm currently working on [a project to count surfers on the beaches, and forecast the crowd density](https://github.com/AlexandreNap/surf-crowd) 
+ *🌞 Last toy project I liked to work on was on [a small implementation of ddpm diffusion model for 2d points](https://github.com/AlexandreNap/Denoising-Diffusion-Probabilistic-Model-toy-project) 
 <!--
 **AlexandreNap/AlexandreNap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
