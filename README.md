@@ -1,8 +1,8 @@
 ### Hi there 👋
 
- - 🔭 I'm currently working on [a project to count surfers on the beaches, and forecast the crowd density](https://github.com/AlexandreNap/surf-crowd) 
- 
- - 🌞 Last toy project I liked to work on was on [a small implementation of ddpm diffusion model for 2d points](https://github.com/AlexandreNap/Denoising-Diffusion-Probabilistic-Model-toy-project) 
+ - 🔭 I'm currently working on [a project to count surfers on the beaches, and forecast the crowd density](https://github.com/AlexandreNap/surf-crowd)  
+ - 🌞 Last small project I liked to work on was [a small implementation of ddpm diffusion model for 2d points](https://github.com/AlexandreNap/Denoising-Diffusion-Probabilistic-Model-toy-project) 
+ - 🔊🎵🎤 Here is [the beginning of an attenmpt](https://github.com/AlexandreNap/hack_zzccmxtp) trying to decrypt a music mixtape whose all songs have been cropped in different 4s while avoiding a too greedy approach.
 <!--
 **AlexandreNap/AlexandreNap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
